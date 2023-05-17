@@ -1,0 +1,67 @@
+.outside{
+    background-color:aquamarine;
+    height: 100vh;
+  }
+
+.header{
+    text-align: center;
+    background-color:aqua;
+}
+.header h1{
+    color:blueviolet;
+}
+.container-outside{
+    display: flex;
+    margin-top: 5%;
+    
+}
+.container-content{
+    padding: 10px;
+    margin-left: 5%;
+}
+textarea{
+    height: 300px;
+    width: 400px;
+}
+.start{
+    margin-left: 50%;
+    margin-top: 5%;
+    height: 50px;
+    width: 150px;
+}
+@media screen and (min-width:700px) and (max-width:1200px) {
+    .outside{
+        background-color:aquamarine;
+        height: 300vh;
+      }
+    .container-outside{
+        margin-top: 5%;
+        flex-direction: column;
+    }
+    textarea{
+        height: 300px;
+        width: 700px;
+    }
+    .start{
+        margin-left: 35%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .outside{
+        background-color:aquamarine;
+        height: 300vh;
+      }
+    .container-outside{
+        margin-top: 5%;
+        flex-direction: column;
+    }
+    textarea{
+        height: 250px;
+        width: 400px;
+    }
+    .start{
+        margin-left: 20%;
+    }
+    
+}
