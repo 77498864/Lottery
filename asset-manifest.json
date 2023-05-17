@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lottery/static/css/main.92ff02c8.css",
+    "main.js": "/Lottery/static/js/main.88751a75.js",
+    "static/js/787.c90eb3c1.chunk.js": "/Lottery/static/js/787.c90eb3c1.chunk.js",
+    "index.html": "/Lottery/index.html",
+    "main.92ff02c8.css.map": "/Lottery/static/css/main.92ff02c8.css.map",
+    "main.88751a75.js.map": "/Lottery/static/js/main.88751a75.js.map",
+    "787.c90eb3c1.chunk.js.map": "/Lottery/static/js/787.c90eb3c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ff02c8.css",
+    "static/js/main.88751a75.js"
+  ]
+}
